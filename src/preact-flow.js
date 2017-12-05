@@ -12,4 +12,4 @@ class Testing extends Component<Props> {
   }
 }
 
-const cmp = <Testing a={'Not a number'} />;
+const cmp = <Testing a="Not a number" />;
