@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "flow": "flow"
+  },
   "dependencies": {
     "flow-bin": "^0.60.1",
     "preact": "^8.2.6",
