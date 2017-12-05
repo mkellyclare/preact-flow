@@ -11,4 +11,4 @@ class Testing extends React.Component<Props> {
   }
 }
 
-const cmp = <Testing a={'abc'}/>;
+const cmp = <Testing a={'Not a number'}/>;
