@@ -11,4 +11,4 @@ class Testing extends React.Component<Props> {
   }
 }
 
-const cmp = <Testing a="Not a number"/>;
+const cmp = <Testing a="Not a number"/>; // Flow correctly finds the error here
